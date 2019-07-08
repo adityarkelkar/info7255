@@ -26,9 +26,9 @@ mvn clean install
 ```
 
 ### Run as Spring Boot application
-1. **Method 1 (Recommended)**
+1. Method 1 (**Recommended**)  
 ```
 mvn spring-boot:run -Dsecurity.oauth2.client.clientId=<CLIENT_ID> -Dsecurity.oauth2.client.clientSecret=<CLIENT_SECRET>
 ```
-2. **Method 2**
+2. Method 2  
 Set the security credentials in `application.properties` file in the project resources
