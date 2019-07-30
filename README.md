@@ -2,6 +2,7 @@
 ## Northeastern University (May 2019 - August 2019)
 
 Repository related to development for REST Api prototype model demo work for INFO 7255  
+  
 [**Architecture diagram**](https://github.com/adityarkelkar/info7255/blob/master/ArchitectureDiagram.pdf)
 
 ## Contents
