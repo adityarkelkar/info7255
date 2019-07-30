@@ -12,25 +12,11 @@ In this project, we will develop a REST Api to parse a JSON schema model divided
 2. **Prototype demo 2**
     - Regress on your model and perform additional operations like `PUT` and `PATCH`.
     - Secure the REST Api with a security protocol like JWT or OAuth2.
+3. **Prototype demo 3**
+    - Adding Elasticsearch capabilities
+    - Adding Kafka queueing system for REST API queueing
 
-## Running the prototype
-
-### Pre-requisites
-1. Java
-2. Maven
-3. OAuth 2.0 client (Refer Google APIs for more details)
-
-### Build & Test
-```
-mvn clean install
-```
-
-### Run as Spring Boot application
-- Method 1 (**Recommended**)  
-```
-mvn spring-boot:run -Dsecurity.oauth2.client.clientId=<CLIENT_ID> -Dsecurity.oauth2.client.clientSecret=<CLIENT_SECRET>
-```
-- Method 2  
-```
-Set the security credentials in `application.properties` file in the project resources
-```
+## Pre-requisites
+1. Redis Server
+2. Elasticsearch and Kibana(Local or cloud based)
+3. Apache Kafka
