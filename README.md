@@ -2,6 +2,7 @@
 ## Northeastern University (May 2019 - August 2019)
 
 Repository related to development for REST Api prototype model demo work for INFO 7255
+[**Architecture diagram**](https://github.com/adityarkelkar/info7255/blob/master/ArchitectureDiagram.pdf)
 
 ## Contents
 In this project, we will develop a REST Api to parse a JSON schema model divided into three demos
@@ -14,7 +15,7 @@ In this project, we will develop a REST Api to parse a JSON schema model divided
     - Secure the REST Api with a security protocol like JWT or OAuth2.
 3. **Prototype demo 3**
     - Adding Elasticsearch capabilities
-    - Adding Kafka queueing system for REST API queueing
+    - Adding Kafka system for REST API queueing
 
 ## Pre-requisites
 1. Redis Server
