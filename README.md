@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/adityarkelkar/info7255.svg?style=svg)](https://circleci.com/gh/adityarkelkar/info7255)
+
 # Advanced Big Data Applications and Indexing Techniques
 ## Northeastern University (May 2019 - August 2019)
 
